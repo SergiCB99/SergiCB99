@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergi Campanales Balaña</h1>
 <h3 align="center">Estudiante de Desarrollo Aplicaciones Web</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Laravel**
+- 🌱 Actualmente estoy aprendiendo **Laravel y Docker**
 
 - 📫 Puedes contactar conmigo por **sergicampanalesbalana@gmail.com**
 
